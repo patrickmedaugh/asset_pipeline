@@ -1,0 +1,7 @@
+audio_path("horse.wav")  # /audios/horse.wav
+audio_tag("sound")       # <audio src="/audios/sound"/>
+font_path("font.ttf")    # /fonts/font.ttf
+image_path("edit.png")   # "/images/edit.png"
+image_tag("dog.png")     # <img src="/images/dog.png" alt="Dog"/>
+video_path("hd.avi")     # /videos/hd.avi
+video_tag("trailer.ogg") # <video src="/videos/trailer.ogg"/>
